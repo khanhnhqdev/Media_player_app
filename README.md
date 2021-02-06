@@ -1,5 +1,7 @@
 # Media_player_app
-A simple media player desktop-based app implemented by Tkinter(GUI) and Pygame(backend). The app have simple functional:
+This code is based on: https://www.youtube.com/watch?v=zMrr2E3heDM&t=315s
+
+A simple media player desktop-based app implemented by Tkinter(GUI) and Pygame(backend). The app have simple functions:
 + Move to next, previous song
 + Increase, decrease volumn
 + Pause, unpause playing song
